@@ -1,0 +1,4 @@
+name: WorldOfNations
+version: '${project.version}'
+main: me.bambam250.worldofnations.WorldOfNations
+api-version: 1.19
