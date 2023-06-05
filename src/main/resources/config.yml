@@ -1,6 +1,2 @@
-database:
-  host: "localhost"
-  ports: "3306"
-  user: "root"
-  password: ""
-  database_name: "nations"
+Databases:
+  Filename: "nations"
